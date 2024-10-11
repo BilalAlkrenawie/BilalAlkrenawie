@@ -1,10 +1,8 @@
 <p align="center">
   <img src="https://github.com/Belalalk/profile-config/blob/main/github-header-image%20(1).png"/>
     </p>
-
 <h2 align="center">🛠 Technology Stack 🛠</h2>
 <p align="center">
-
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="Csharp" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
