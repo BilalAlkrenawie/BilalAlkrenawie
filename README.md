@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="" alt="belal alk's Header Image"/>
   <img src="https://github.com/Belalalk/profile-config/blob/main/github-header-image%20(1).png"/>
     </p>
 
