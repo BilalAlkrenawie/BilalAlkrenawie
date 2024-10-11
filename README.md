@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://github.com/Belalalk/profile-config/blob/main/github-header-image%20(1).png"/>
     </p>
 <h2 align="center">🛠 Technology Stack 🛠</h2>
 <p align="center">
